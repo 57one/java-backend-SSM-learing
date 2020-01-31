@@ -9,6 +9,8 @@ https://www.cnblogs.com/zhaideyou/p/5929960.html
 https://www.zhihu.com/question/57719761
 # SSM是什么
 https://www.jianshu.com/p/a23aa1b2d9dd
+# 什么是ORM
+https://blog.csdn.net/u010947534/article/details/90669452
 # Java Bean、EJB、Spring Bean、POJO、BO、DTO、PO、VO、DO和DAO
 https://chinese.freecodecamp.org/forum/t/java-bean-ejb-spring-bean-pojo-bo-dto-po-vo-do-dao/69$
 # 依赖注入(DI)和控制反转(Ioc)
